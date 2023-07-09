@@ -1,0 +1,35 @@
+.myButton {
+	padding: 0;
+	background-color: transparent;
+	border: none;
+	outline: none;
+	-webkit-tap-highlight-color: transparent;
+	box-shadow: none;
+	cursor: pointer;
+	width: 66px;
+    height: 56px;
+	display: flex;
+	margin: 5px 10px;
+	padding: 10px 15px;
+	border-radius: 1px;
+	font-size: 12px;
+	line-height: 15px;
+	text-transform: uppercase;
+	color: white;
+	background: #315efb;
+	transition: 0.3s;
+}
+
+#myIcon {
+	width: 30px;
+  	height: 30px;
+    font-size: 15px;
+}
+
+.icon_01 {
+	background-image: url('icons/icon-1.svg');
+}
+
+.icon_02 {
+	background-image: url('icons/icon-2.svg');
+}
